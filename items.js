@@ -61,7 +61,7 @@ const items = [
     },
     {
         id: '005',
-        image: '5.jpg',
+        image: 'images/5.jpg',
         company: 'Roadster',
         item_name: 'Pure Cotton T-shirt',
         original_price: 1399,
